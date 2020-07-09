@@ -1,0 +1,19 @@
+.header-part{
+    height: 576px;
+    width: 1440px;
+    background-color: #F0FFF0;
+}
+.navbar{
+    background-color: #F0FFF0 !important;
+}
+.navbar img{
+    height: 59px;
+    width: 198.07px;
+}
+.sign-in{
+    width: 104px;
+    height: 43px;
+    background-color: #21b573;
+    border-radius: 33px;
+    border: none;
+}
