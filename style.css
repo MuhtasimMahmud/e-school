@@ -40,8 +40,8 @@
     width: 600px;
     height: 365px;
 }
-.card-body{
-    text-align: center;
+.body-of-books{
+    text-align: center !important;
 }
 
 .books{
@@ -133,4 +133,3 @@
     text-align: center;
     padding-right: 145px;
 }
-.copy{}
